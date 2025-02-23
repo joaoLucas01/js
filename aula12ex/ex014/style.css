@@ -1,0 +1,50 @@
+body {
+    background-color:rgb(107, 165, 241);
+    font: normal 15pt arial
+}
+
+header {
+    color: white;
+    text-align: center;
+}
+
+section {
+    background-color: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.445);
+}
+
+div#msg{
+    text-align: center;
+}
+
+div#msg2{
+    text-align: center;
+    color: rgb(82, 74, 68);
+}
+
+div#img{
+    width: 250px;
+    height: 250px;
+    margin: auto;
+    border-radius: 125px;
+}
+
+p{
+    text-align: center;
+}
+
+img{
+    width: 250px;
+    height: 150px;
+    border-radius: 150px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
