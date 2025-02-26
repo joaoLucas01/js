@@ -17,7 +17,7 @@ function verificar(){
                 //criança 
                 img.setAttribute('src', 'homem-criança.jpg')
             } else if(idade < 21){
-                //jovem
+                //jovem 
                 img.setAttribute('src', 'homem-jovem.jpg')
             } else if(idade < 60){
                 //adulto
