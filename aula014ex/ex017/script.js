@@ -11,6 +11,7 @@ function calcular(){
         while(m <= 10){
             let item = document.createElement('option')
             item.text = `${n} x ${m} = ${n*m}`
+            item.value = `tab${c}`
             sel.appendChild(item)
             m++
         }
